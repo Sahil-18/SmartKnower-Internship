@@ -6,3 +6,6 @@ Model learned using training set and predicted output for test set, I got accura
 Conclusion of 'Confusion Matrix' is the model efficiently predicted all cases of Iris-Setosa, and Iris-virginica. But out of 15 cases, model correctly predicted 14 cases as 
 Iris-versicolor and incorrectly predicted one output as Iris-virginica. 
 This conclusions can also be made from 'Classification Report'.
+
+The link for dataset is given below:
+https://www.kaggle.com/uciml/iris
